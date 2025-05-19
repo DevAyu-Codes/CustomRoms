@@ -27,7 +27,7 @@ sudo apt install -y \
     openjdk-17-jdk imagemagick python-is-python3 lsof lz4 libtinfo-dev
 ```
 
-### Install Git LFS
+### 🔄 Install Git LFS
 
 ```bash
 sudo apt update
@@ -105,7 +105,7 @@ touch voltage_strings.xml
 micro voltage_strings.xml
 ```
 
-### Copy paste (Edit maintainer name);
+### ✍️ Copy paste (Edit maintainer name);
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2022 VoltageOS
@@ -153,6 +153,7 @@ cd ../../vendor/voltage-priv/keys
 ## ✍️ Step 12: Modify TapGesture Package Name
 
 ```bash
+cd ../../..
 micro device/motorola/cancunf/app/MotoActions/src/org/lineageos/settings/device/actions/TapGestureSettings.java
 ```
 
