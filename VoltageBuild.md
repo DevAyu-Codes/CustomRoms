@@ -27,7 +27,7 @@ sudo apt install -y \
     openjdk-17-jdk imagemagick python-is-python3 lsof lz4 libtinfo-dev
 ```
 
-### 🔄 Install Git LFS
+### 🔄 Install and setup Git LFS
 
 ```bash
 sudo apt update
