@@ -47,11 +47,11 @@ All required patches, overlays, and cherry-picks are mentioned in each guide.
 
 ## 🤝 Credits
 
-Big thanks to the teams behind:
+Big thanks to:
 - [Sarthak Roy](https://t.me/sarthakroy2002)
 - [CyberNight777](https://t.me/cyberknight777)
-- [VoltageOS](https://github.com/VoltageOS)
-- [LineageOS](https://github.com/LineageOS)
+- [VoltageOS Team](https://github.com/VoltageOS)
+- [LineageOS Team](https://github.com/LineageOS)
 - And all Android open-source contributors ❤️
 
 ---
