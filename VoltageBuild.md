@@ -36,8 +36,8 @@ git lfs install
 ```
 
 ```bash
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "ayushkumar274549@gmail.com"
+git config --global user.name "DevAyu-Codes"
 ```
 
 ---
