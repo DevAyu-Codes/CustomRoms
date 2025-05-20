@@ -35,6 +35,11 @@ sudo apt install git-lfs
 git lfs install
 ```
 
+```bash
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
 ---
 
 ## 🧰 Step 3: Set Up Repo Tool
