@@ -169,7 +169,7 @@ git -C device/motorola/cancunf cherry-pick 42403f68003b2ed3de8d508042c4d7696b2f4
 
 ## 🧬 Step 12: Fix for vendor_camera_prop missing
 
-Paste `vendor_restricted_prop(vendor_camera_prop);` after #Camera
+Paste `vendor_restricted_prop(vendor_camera_prop);` after `#Camera`
 
 ```bash
 micro device/motorola/cancunf/sepolicy/vendor/property.te
