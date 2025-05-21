@@ -12,8 +12,8 @@ Welcome to the central repository for all custom ROM builds for the **Motorola C
 
 | ROM         | Android Version | Status    |
 |-------------|-----------------|-----------|
+| RisingOS    | Android 15      | ✅ Stable |
 | VoltageOS   | Android 15      | ✅ Stable |
-| (More Soon) | —               | 🚧 WIP    |
 
 > 🔔 New ROMs will be added and maintained over time. Stay tuned!
 
@@ -29,8 +29,8 @@ Flashable builds and official releases are available in the [**Releases**](https
 
 Each ROM has a dedicated guide in their respected readme.md. Follow the instructions relevant to the ROM you want to build:
 
+- [RisingOS Build Guide](./RisingBuild.md)
 - [VoltageOS Build Guide](./VoltageBuild.md)
-- (More guides coming soon)
 
 All required patches, overlays, and cherry-picks are mentioned in each guide.
 
