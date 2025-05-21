@@ -138,7 +138,7 @@ RISING_MAINTAINER := "Ayu Kashyap"
 TARGET_ENABLE_BLUR := true
 
 # Whether to ship aperture camera, false by default
-PRODUCT_NO_CAMERA := true
+PRODUCT_NO_CAMERA := false
 
 # Whether to ship lawnchair launcher, false by default
 TARGET_PREBUILT_LAWNCHAIR_LAUNCHER := false
