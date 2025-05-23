@@ -52,6 +52,7 @@ All required patches, overlays, and cherry-picks are mentioned in each guide.
 Big thanks to:
 - [Sarthak Roy](https://t.me/sarthakroy2002)
 - [CyberNight777](https://t.me/cyberknight777)
+- [ProjectMatrixx Team](https://github.com/ProjectMatrixx)
 - [RisingOS Team](https://github.com/RisingOS-Revived)
 - [VoltageOS Team](https://github.com/VoltageOS)
 - [LineageOS Team](https://github.com/LineageOS)
