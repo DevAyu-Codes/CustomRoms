@@ -22,7 +22,7 @@ Welcome to the central repository for all custom ROM builds for the **Motorola C
 
 ## 🚀 Releases
 
-Flashable builds and official releases are available in the [**Releases**](https://github.com/DevAyu-Codes/CustomRoms/releases) section.
+Flashable builds and unofficial releases are available in the [**Releases**](https://github.com/DevAyu-Codes/CustomRoms/releases) section.
 
 ---
 
