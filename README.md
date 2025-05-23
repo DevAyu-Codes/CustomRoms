@@ -30,7 +30,7 @@ Flashable builds and official releases are available in the [**Releases**](https
 
 Each ROM has a dedicated guide in their respected readme.md. Follow the instructions relevant to the ROM you want to build:
 
-- [ProjectMatrixx Build Guide](.Guides/MatrixxBuild.md)
+- [ProjectMatrixx Build Guide](./Guides/MatrixxBuild.md)
 - [RisingOS Build Guide](.Guides/RisingBuild.md)
 - [VoltageOS Build Guide](.Guides/VoltageBuild.md)
 
