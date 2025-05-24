@@ -143,9 +143,9 @@ micro device/motorola/cancunf/device.mk
 and add:
 ```bash
 PRODUCT_SYSTEM_PROPERTIES += \
-    ro.infinity.soc="MediaTek\u00A0Dimensity\u00A07020" \
+    ro.infinity.soc="MediaTek\u00A0Dimensity\u00A07020\u00A0(6nm)" \
     ro.infinity.battery="6000mAh\u00A0Li-Po\u00A0(non-removable)" \
-    ro.infinity.display="6.5\u00A0FHD+\u00A0(2400x1080)\u00A0120Hz" \
+    ro.infinity.display="6.5\u00A0FHD+\u00A0(2400x1080),\u00A0120Hz" \
     ro.infinity.camera="50MP\u00A0(f/1.8)\u00A0+\u00A08MP\u00A0(UW)\u00A0+\u00A016MP" \
     ro.product.marketname="Moto\u00A0G54\u00A05G"
 ```
