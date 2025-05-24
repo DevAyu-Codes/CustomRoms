@@ -167,7 +167,8 @@ Replace all occurrences of `lineage` with your ROM's package name (e.g., `infini
 ```bash
 . build/envsetup.sh
 croot && git clone https://github.com/ProjectInfinity-X/vendor_infinity-priv_keys-template vendor/infinity-priv/keys
-vendor/infinity-priv/keys/keys.sh
+cd vendor/infinity-priv/keys/
+./keys.sh
 ```
 
 ---
@@ -175,6 +176,7 @@ vendor/infinity-priv/keys/keys.sh
 ## 🚀 Step 14: Build the ROM
 
 ```bash
+cd ../../..
 lunch infinity_cancunf-userdebug
 mka bacon
 ```
