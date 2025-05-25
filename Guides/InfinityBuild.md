@@ -162,7 +162,17 @@ Replace all occurrences of `lineage` with your ROM's package name (e.g., `infini
 
 ---
 
-## 🔑 Step 13: Setup Signing Keys
+## 🧾 Step 13: Fix MobileFeliCaClient error
+
+```bash
+micro device/motorola/cancunf/Android.bp
+```
+
+Search for MobileFeliCaClient and remove `skip_preprocessed_apk_checks: true,`
+
+---
+
+## 🔑 Step 14: Setup Signing Keys
 
 ```bash
 . build/envsetup.sh
@@ -173,7 +183,7 @@ cd vendor/infinity-priv/keys/
 
 ---
 
-## 🚀 Step 14: Build the ROM
+## 🚀 Step 15: Build the ROM
 
 ```bash
 cd ../../..
