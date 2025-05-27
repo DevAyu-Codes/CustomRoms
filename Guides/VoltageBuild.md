@@ -138,7 +138,7 @@ micro voltage_strings.xml
 ## 🧬 Step 10: Cherry-pick Frameworks Commit
 
 ```bash
-cd cd ../../../../../../frameworks/base
+cd ../../../../../../frameworks/base
 git remote add genesis https://github.com/GenesisOS/frameworks_base.git
 git fetch genesis
 git cherry-pick d073213e70610ca517db91bd035e1cbca605368c
