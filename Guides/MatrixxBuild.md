@@ -178,8 +178,10 @@ micro cr_strings.xml
 ## 🔑 Step 13: Setup Signing Keys
 
 ```bash
-cd ../../../../../../../..
-vendor/lineage-priv/keys/generate.sh
+cd ../../../../../../..
+git clone https://github.com/ProjectMatrixx/android_vendor_lineage-priv_keys-template.git -b master vendor/lineage-priv/keys
+cd vendor/lineage-priv/keys
+./generate.sh
 ```
 
 ---
@@ -187,6 +189,7 @@ vendor/lineage-priv/keys/generate.sh
 ## 🚀 Step 14: Build the ROM
 
 ```bash
+cd ../../..
 . build/envsetup.sh
 brunch cancunf
 ```
