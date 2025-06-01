@@ -165,7 +165,7 @@ Replace all occurrences of `lineage` with your ROM's package name (e.g., `infini
 ## 🧾 Step 13: Fix MobileFeliCaClient error
 
 ```bash
-micro device/motorola/cancunf/Android.bp
+micro vendor/motorola/cancunf/Android.bp
 ```
 
 Search for MobileFeliCaClient and remove `skip_preprocessed_apk_checks: true,`
