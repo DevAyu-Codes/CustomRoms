@@ -12,6 +12,7 @@ Welcome to the central repository for all custom ROM builds for the **Motorola C
 
 | ROM         | Android Version | Status    |
 |-------------|-----------------|-----------|
+| Alphadroid  | Android 15      | ✅ Stable |
 | InfinityX   | Android 15      | ✅ Stable |
 | Matrixx     | Android 15      | ✅ Stable |
 | RisingOS    | Android 15      | ✅ Stable |
@@ -31,6 +32,7 @@ Flashable builds and unofficial releases are available in the [**Releases**](htt
 
 Each ROM has a dedicated guide in their respected readme.md. Follow the instructions relevant to the ROM you want to build:
 
+- [Alphadroid Build Guide](./Guides/AlphadroidBuild.md)
 - [InfinityX Build Guide](./Guides/InfinityBuild.md)
 - [ProjectMatrixx Build Guide](./Guides/MatrixxBuild.md)
 - [RisingOS Build Guide](./Guides/RisingBuild.md)
@@ -54,6 +56,7 @@ All required patches, overlays, and cherry-picks are mentioned in each guide.
 Big thanks to:
 - [Sarthak Roy](https://t.me/sarthakroy2002)
 - [CyberNight777](https://t.me/cyberknight777)
+- [Alphadroid Team](https://github.com/alphadroid-project)
 - [InfinityX Team](https://github.com/ProjectInfinity-X)
 - [ProjectMatrixx Team](https://github.com/ProjectMatrixx)
 - [RisingOS Team](https://github.com/RisingOS-Revived)
