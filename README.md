@@ -55,7 +55,7 @@ All required patches, overlays, and cherry-picks are mentioned in each guide.
 
 Big thanks to:
 - [Sarthak Roy](https://t.me/sarthakroy2002)
-- [CyberNight777](https://t.me/cyberknight777)
+- [CYBERKNIGHT777](https://t.me/cyberknight777)
 - [Alphadroid Team](https://github.com/alphadroid-project)
 - [InfinityX Team](https://github.com/ProjectInfinity-X)
 - [ProjectMatrixx Team](https://github.com/ProjectMatrixx)
